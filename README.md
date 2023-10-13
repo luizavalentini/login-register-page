@@ -1,4 +1,4 @@
-# Login and Registration Page
+# login-registration-page
 
 ## Description
 The Login and Registration Page project is a web application that provides users with the ability to create new accounts and access their existing accounts by providing their credentials.
