@@ -33,8 +33,8 @@ This will start the server and make the API available for use.
 
 ## Features
 
-- **Account Registration**  Users can sign up by providing basic information such as a username, password, and email address.
-- **Login Page**  Registered users can easily access their accounts by entering their credentials
+- **Account Registration:**  Users can sign up by providing basic information such as a username, password, and email address.
+- **Login Page:**  Registered users can easily access their accounts by entering their credentials
 
 ## Notes
 
